@@ -10,7 +10,7 @@ Perhaps small isn't the best word to describe this project! This was from CSC407
 You can view the assignment prompt [here](https://github.com/lcombs15/Small-COBOL-Assignment/blob/master/assignment.pdf).
 
 # Running &amp; Compiling
-We used a Linux compiler, cobc, which is more formally called open-COBOL or [GnuCobol](http://open-cobol.sourceforge.net/).
+We used a Linux compiler, cobc, which is more formally called open-COBOL or [GnuCobol](https://sourceforge.net/projects/open-cobol/files/).
 
 Run this command to compile this project:
 > cobc -free -x -o MAIN-EXE main.cbl
